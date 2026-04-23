@@ -1,0 +1,343 @@
+{
+  "qq_number": "3855218473",
+  "group_number": "126810414",
+  "updated_at": "2026-04-23T15:52:38.129925",
+  "skins": [
+    {
+      "name": "栖の记事簿",
+      "file": "记事簿.bdi",
+      "thumb": "记事簿.bdi_py_26_light_thumb.png",
+      "full": "记事簿.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の隐藏于夜",
+      "file": "隐藏于夜无漂.bdi",
+      "thumb": "隐藏于夜无漂.bdi_py_26_light_thumb.png",
+      "full": "隐藏于夜无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の流星雨之愿",
+      "file": "流星雨之愿.bdi",
+      "thumb": "流星雨之愿.bdi_py_26_light_thumb.png",
+      "full": "流星雨之愿.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の翩翩绿茵",
+      "file": "翩翩绿茵.bdi",
+      "thumb": "翩翩绿茵.bdi_py_26_light_thumb.png",
+      "full": "翩翩绿茵.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の干花书签",
+      "file": "干花书签无漂.bdi",
+      "thumb": "干花书签无漂.bdi_py_26_light_thumb.png",
+      "full": "干花书签无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の流星雨之愿",
+      "file": "流星雨之愿无漂.bdi",
+      "thumb": "流星雨之愿无漂.bdi_py_26_light_thumb.png",
+      "full": "流星雨之愿无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の暖色灯系",
+      "file": "暖色灯系无漂.bdi",
+      "thumb": "暖色灯系无漂.bdi_py_26_light_thumb.png",
+      "full": "暖色灯系无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の오입梦",
+      "file": "오입梦无漂.bdi",
+      "thumb": "오입梦无漂.bdi_py_26_light_thumb.png",
+      "full": "오입梦无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の落雨积水",
+      "file": "落雨积水无漂.bdi",
+      "thumb": "落雨积水无漂.bdi_py_26_light_thumb.png",
+      "full": "落雨积水无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の撒下阳光",
+      "file": "撒下阳光.bdi",
+      "thumb": "撒下阳光.bdi_py_26_light_thumb.png",
+      "full": "撒下阳光.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の海景房",
+      "file": "海景房.bdi",
+      "thumb": "海景房.bdi_py_26_light_thumb.png",
+      "full": "海景房.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の오입梦",
+      "file": "오입梦.bdi",
+      "thumb": "오입梦.bdi_py_26_light_thumb.png",
+      "full": "오입梦.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景",
+      "file": "窗外街景.bdi",
+      "thumb": "窗外街景.bdi_py_26_light_thumb.png",
+      "full": "窗外街景.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の未营业",
+      "file": "未营业.bdi",
+      "thumb": "未营业.bdi_py_26_light_thumb.png",
+      "full": "未营业.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の隐藏于夜",
+      "file": "隐藏于夜.bdi",
+      "thumb": "隐藏于夜.bdi_py_26_light_thumb.png",
+      "full": "隐藏于夜.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の草莓酱",
+      "file": "草莓酱无漂.bdi",
+      "thumb": "草莓酱无漂.bdi_py_26_light_thumb.png",
+      "full": "草莓酱无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖のチョコミント",
+      "file": "チョコミント.bdi",
+      "thumb": "チョコミント.bdi_py_26_light_thumb.png",
+      "full": "チョコミント.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の翩翩绿茵",
+      "file": "翩翩绿茵无漂.bdi",
+      "thumb": "翩翩绿茵无漂.bdi_py_26_light_thumb.png",
+      "full": "翩翩绿茵无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景盲打",
+      "file": "窗外街景盲打.bdi",
+      "thumb": "窗外街景盲打.bdi_py_26_light_thumb.png",
+      "full": "窗外街景盲打.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の暖色灯系",
+      "file": "暖色灯系.bdi",
+      "thumb": "暖色灯系.bdi_py_26_light_thumb.png",
+      "full": "暖色灯系.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の草莓酱",
+      "file": "草莓酱.bdi",
+      "thumb": "草莓酱.bdi_py_26_light_thumb.png",
+      "full": "草莓酱.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の海景房",
+      "file": "海景房无漂.bdi",
+      "thumb": "海景房无漂.bdi_py_26_light_thumb.png",
+      "full": "海景房无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景",
+      "file": "窗外街景无漂.bdi",
+      "thumb": "窗外街景无漂.bdi_py_26_light_thumb.png",
+      "full": "窗外街景无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖的토끼 아가씨의 인형 상점",
+      "file": "토끼아가씨의인형상점.bdi",
+      "thumb": "토끼아가씨의인형상점.bdi_py_26_light_thumb.png",
+      "full": "토끼아가씨의인형상점.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景盲打",
+      "file": "窗外街景盲打无漂.bdi",
+      "thumb": "窗外街景盲打无漂.bdi_py_26_light_thumb.png",
+      "full": "窗外街景盲打无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖のチョコミント",
+      "file": "チョコミント无漂.bdi",
+      "thumb": "チョコミント无漂.bdi_py_26_light_thumb.png",
+      "full": "チョコミント无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の落雨积水",
+      "file": "落雨积水.bdi",
+      "thumb": "落雨积水.bdi_py_26_light_thumb.png",
+      "full": "落雨积水.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の干花书签",
+      "file": "干花书签.bdi",
+      "thumb": "干花书签.bdi_py_26_light_thumb.png",
+      "full": "干花书签.bdi_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景盲打",
+      "file": "窗外街景盲打无漂.bds",
+      "thumb": "窗外街景盲打无漂.bds_py_26_light_thumb.png",
+      "full": "窗外街景盲打无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖のチョコミント",
+      "file": "チョコミント无漂.bds",
+      "thumb": "チョコミント无漂.bds_py_26_light_thumb.png",
+      "full": "チョコミント无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の隐藏于夜",
+      "file": "隐藏于夜无漂.bds",
+      "thumb": "隐藏于夜无漂.bds_py_26_light_thumb.png",
+      "full": "隐藏于夜无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の许愿星之愿",
+      "file": "流星雨之愿无漂.bds",
+      "thumb": "流星雨之愿无漂.bds_py_26_light_thumb.png",
+      "full": "流星雨之愿无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の撒下阳光",
+      "file": "撒下阳光.bds",
+      "thumb": "撒下阳光.bds_py_26_light_thumb.png",
+      "full": "撒下阳光.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の许愿星之愿",
+      "file": "流星雨之愿.bds",
+      "thumb": "流星雨之愿.bds_py_26_light_thumb.png",
+      "full": "流星雨之愿.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の草莓酱",
+      "file": "草莓酱无漂.bds",
+      "thumb": "草莓酱无漂.bds_py_26_light_thumb.png",
+      "full": "草莓酱无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の暖色灯系",
+      "file": "暖色灯系.bds",
+      "thumb": "暖色灯系.bds_py_26_light_thumb.png",
+      "full": "暖色灯系.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の记事簿",
+      "file": "记事簿.bds",
+      "thumb": "记事簿.bds_py_26_light_thumb.png",
+      "full": "记事簿.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の翩翩绿茵",
+      "file": "翩翩绿茵无漂.bds",
+      "thumb": "翩翩绿茵无漂.bds_py_26_light_thumb.png",
+      "full": "翩翩绿茵无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の暖色灯系",
+      "file": "暖色灯系无漂.bds",
+      "thumb": "暖色灯系无漂.bds_py_26_light_thumb.png",
+      "full": "暖色灯系无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖のチョコミント",
+      "file": "チョコミント.bds",
+      "thumb": "チョコミント.bds_py_26_light_thumb.png",
+      "full": "チョコミント.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の干花书签",
+      "file": "干花书签无漂.bds",
+      "thumb": "干花书签无漂.bds_py_26_light_thumb.png",
+      "full": "干花书签无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の干花书签",
+      "file": "干花书签.bds",
+      "thumb": "干花书签.bds_py_26_light_thumb.png",
+      "full": "干花书签.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の隐藏于夜",
+      "file": "隐藏于夜.bds",
+      "thumb": "隐藏于夜.bds_py_26_light_thumb.png",
+      "full": "隐藏于夜.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景",
+      "file": "窗外街景无漂.bds",
+      "thumb": "窗外街景无漂.bds_py_26_light_thumb.png",
+      "full": "窗外街景无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景",
+      "file": "窗外街景.bds",
+      "thumb": "窗外街景.bds_py_26_light_thumb.png",
+      "full": "窗外街景.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の落雨积水",
+      "file": "落雨积水.bds",
+      "thumb": "落雨积水.bds_py_26_light_thumb.png",
+      "full": "落雨积水.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の翩翩绿茵",
+      "file": "翩翩绿茵.bds",
+      "thumb": "翩翩绿茵.bds_py_26_light_thumb.png",
+      "full": "翩翩绿茵.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の오입梦",
+      "file": "오입梦.bds",
+      "thumb": "오입梦.bds_py_26_light_thumb.png",
+      "full": "오입梦.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の窗外街景盲打",
+      "file": "窗外街景盲打.bds",
+      "thumb": "窗外街景盲打.bds_py_26_light_thumb.png",
+      "full": "窗外街景盲打.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の草莓酱",
+      "file": "草莓酱.bds",
+      "thumb": "草莓酱.bds_py_26_light_thumb.png",
+      "full": "草莓酱.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の落雨积水",
+      "file": "落雨积水无漂.bds",
+      "thumb": "落雨积水无漂.bds_py_26_light_thumb.png",
+      "full": "落雨积水无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の海景房",
+      "file": "海景房.bds",
+      "thumb": "海景房.bds_py_26_light_thumb.png",
+      "full": "海景房.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の海景房",
+      "file": "海景房无漂.bds",
+      "thumb": "海景房无漂.bds_py_26_light_thumb.png",
+      "full": "海景房无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の오입梦",
+      "file": "오입梦无漂.bds",
+      "thumb": "오입梦无漂.bds_py_26_light_thumb.png",
+      "full": "오입梦无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "栖的토끼 아가씨의 인형 상점",
+      "file": "토끼아가씨의인형상점.bds",
+      "thumb": "토끼아가씨의인형상점.bds_py_26_light_thumb.png",
+      "full": "토끼아가씨의인형상점.bds_py_26_light.png"
+    },
+    {
+      "name": "栖の未营业",
+      "file": "未营业.bds",
+      "thumb": "未营业.bds_py_26_light_thumb.png",
+      "full": "未营业.bds_py_26_light.png"
+    }
+  ]
+}
