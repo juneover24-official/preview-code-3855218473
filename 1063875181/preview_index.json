@@ -1,6 +1,7 @@
 {
   "qq_number": "3855218473",
   "group_number": "1063875181",
+  "updated_at": "2026-10-01T11:31:44+00:00",
   "skins": [
     {
       "name": "栖の夏日池影",
@@ -8,7 +9,12 @@
       "thumb": "夏日池影.bds_py_26_light_thumb.png",
       "full": "夏日池影.bds_py_26_light_thumb.png",
       "file_id": "0ac8723a4909df034a2db766ea710422"
+    },
+    {
+      "name": "栖の远航愿",
+      "file": "远航愿.bds",
+      "thumb": "远航愿.bds_py_26_light_thumb.png",
+      "full": "远航愿.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-09-26T08:54:49+00:00"
+  ]
 }
