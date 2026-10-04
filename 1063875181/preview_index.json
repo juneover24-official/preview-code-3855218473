@@ -1,7 +1,7 @@
 {
   "qq_number": "3855218473",
   "group_number": "1063875181",
-  "updated_at": "2026-10-04T12:47:46+00:00",
+  "updated_at": "2026-10-04T12:49:01+00:00",
   "skins": [
     {
       "name": "栖の夏日池影",
@@ -22,6 +22,12 @@
       "thumb": "远航愿.bds_py_26_light_thumb.png",
       "full": "远航愿.bds_py_26_light_thumb.png",
       "file_id": "2cadde1309b56c49eebcec97753d23c9"
+    },
+    {
+      "name": "栖の花语之谜",
+      "file": "花语之谜.bds",
+      "thumb": "花语之谜.bds_py_26_light_thumb.png",
+      "full": "花语之谜.bds_py_26_light_thumb.png"
     }
   ]
 }
